@@ -352,6 +352,10 @@ textarea {
   width: 90vw;
 }
 
+.card:hover {
+  border-bottom: 2px solid var(--orange);
+}
+
 .news-title {
   font-weight: bold;
   font-size: var(--title-font-size);
