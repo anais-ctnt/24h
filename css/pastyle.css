@@ -347,9 +347,10 @@ body {
     justify-content: space-around;
   }
 
-  .card {
+  .palmares-card {
+    border: 2px solid black;
     height: 214px;
-    width: 1098px;
+    width: 60vw;
     position: static;
     background: white;
     border-radius: 10px;
@@ -360,7 +361,7 @@ body {
 
   .cardImg1 {
     grid-area: 1 / 1 / 4 / 2;
-    background: url('images/toypalm.resized.jpg');
+    background: url('../images/toypalm.resized.jpg');
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
     border-top-right-radius: 0px;
