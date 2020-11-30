@@ -9,12 +9,6 @@
 - Create an adaptive site (Responsive design)
 - Get used to time constraints
 
-## Installation
-
-```bash
-git clone https://github.com/nicholas570/24h.git
-```
-
 ## Deployment
 
 <https://anais-ctnt.github.io/24h/html/home.html>
