@@ -17,7 +17,7 @@ git clone https://github.com/nicholas570/24h.git
 
 ## Deployment
 
-<https://nicholas570.github.io/24h/html/home.html>
+<https://anais-ctnt.github.io/24h/html/home.html>
 
 ## Contributors
 
